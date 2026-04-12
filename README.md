@@ -11,7 +11,7 @@
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 ### Решение
-![screen]()
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/Zadanie1.jpg)
 
  ---
 
