@@ -60,6 +60,11 @@
 Второй хост:
 
 ![screen](https://github.com/igorsprint-code/hw-03/blob/main/temp%202.jpg)
+ 
+Привяжите шаблон Linux by Zabbix Agent нельзя т.к. в оба шаблона содержат одинаковый item system.cpu.util
+
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/linux%20by%20zabbix.jpg)
+
  ---
 
 ### Задание 4
