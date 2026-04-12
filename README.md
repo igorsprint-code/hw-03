@@ -65,6 +65,11 @@
 
 ![screen](https://github.com/igorsprint-code/hw-03/blob/main/linux%20by%20zabbix.jpg)
 
+В раздел Latest Data начали поступать необходимые данные из шаблона
+
+
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/latest_data.jpg)
+
  ---
 
 ### Задание 4
