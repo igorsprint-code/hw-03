@@ -160,6 +160,10 @@ UserParameter=custom_date[*],./etc/zabbix/zabbix_agentd.d/user_parameter.sh 2
 ![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_1.jpg)
 
 
+Latest data с результатом работы скрипта на bash:
+
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_2.jpg)
+
  
  ---
 
