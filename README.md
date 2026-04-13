@@ -128,6 +128,23 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md код скрипта, а также скриншот Latest data с результатом работы скрипта на bash, чтобы был виден результат работы скрипта при отправке в него 1 и 2
+
+```bash
+#!/bin/bash
+PARAM=$1
+
+if [ "$PARAM" == "1" ]; then
+        echo "Dedyakhin I.V."
+
+elif [ "$PARAM" == "2" ]; then
+        echo "$(date '+%d.%m.%Y %H:%M:%S')"
+else
+        echo "ERROR. Use parameter 1 or 2 " 
+
+fi
+
+
+```
  
  ---
 
