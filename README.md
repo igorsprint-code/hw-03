@@ -185,6 +185,24 @@ Latest data с результатом работы скрипта на bash:
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот правила обнаружения, а также скриншот страницы Discover, где видны оба хоста.*
 
+Создаем action discovery, хосты будут добавлены в группу homework с нашим шаблоном:
+
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_3.jpg)
+
+Указывает диапазон ip-aдресов:
+
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_4.jpg)
+
+
+Оба хоста обнаружены:
+
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_5.jpg)
+
+
+
+
+
+
  ---
 
 ### Задание 9* со звёздочкой
