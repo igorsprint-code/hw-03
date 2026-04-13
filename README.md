@@ -129,6 +129,8 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md код скрипта, а также скриншот Latest data с результатом работы скрипта на bash, чтобы был виден результат работы скрипта при отправке в него 1 и 2
 
+Скрипт:
+
 ```bash
 #!/bin/bash
 PARAM=$1
@@ -145,6 +147,19 @@ fi
 
 
 ```
+
+Содержание файла user_parameter.conf:
+
+```
+UserParameter=custom_FIO[*],./etc/zabbix/zabbix_agentd.d/user_parameter.sh 1
+UserParameter=custom_date[*],./etc/zabbix/zabbix_agentd.d/user_parameter.sh 2
+```
+
+Добавляем пользовательские items в наш шаблон:
+
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_1.jpg)
+
+
  
  ---
 
