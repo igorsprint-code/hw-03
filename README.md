@@ -65,6 +65,10 @@
 
 ![screen](https://github.com/igorsprint-code/hw-03/blob/main/linux%20by%20zabbix.jpg)
 
+Таблица хостов:
+
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/hosts.jpg)
+
 В раздел Latest Data начали поступать необходимые данные из шаблона
 
 
@@ -85,9 +89,9 @@
 
 ### Решение
 
-Новый дашборд:
+Новый исправленный дашборд:
 
-![screen](https://github.com/igorsprint-code/hw-03/blob/main/dash.jpg)
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/dash_new.jpg)
 
 
  ---
