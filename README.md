@@ -210,11 +210,11 @@ UserParameter=custom_py_print[*],python3 /etc/zabbix/zabbix_agentd.d/test_python
 
 Добавляем в шаблон item'ы:
 
-![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_1.jpg)
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/888_1_temp.jpg)
 
 Latest data с результатом работы скрипта на python:
 
-![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_2.jpg)
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/888__data.jpg)
 
 
 
