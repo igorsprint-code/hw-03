@@ -69,6 +69,10 @@
 
 ![screen](https://github.com/igorsprint-code/hw-03/blob/main/hosts.jpg)
 
+колонка шаблонов:
+
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/templ.jpg)
+
 В раздел Latest Data начали поступать необходимые данные из шаблона
 
 
