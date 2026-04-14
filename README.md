@@ -157,12 +157,12 @@ UserParameter=custom_date[*],./etc/zabbix/zabbix_agentd.d/user_parameter.sh 2
 
 Добавляем пользовательские items в наш шаблон:
 
-![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_1.jpg)
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/bash_temp.jpg)
 
 
 Latest data с результатом работы скрипта на bash:
 
-![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_2.jpg)
+![screen](https://github.com/igorsprint-code/hw-03/blob/main/bash_data.jpg)
 
  
  ---
