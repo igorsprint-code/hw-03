@@ -232,7 +232,7 @@ Latest data с результатом работы скрипта на python:
 
 ![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_3.jpg)
 
-Указывает диапазон ip-aдресов:
+Указываем диапазон ip-aдресов:
 
 ![screen](https://github.com/igorsprint-code/hw-03/blob/main/Screenshot_4.jpg)
 
